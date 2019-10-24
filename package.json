@@ -1,0 +1,11 @@
+{
+  "name": "starbucks-html-email",
+  "version": "1.0.0",
+  "description": "Starbucks HTML Promotional Email",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Lawrence Thomas",
+  "license": "ISC"
+}
